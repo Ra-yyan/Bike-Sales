@@ -1,9 +1,6 @@
 # Bike-Sales
 This project aims to explore and analyze the bike sales landscape in India using Exploratory Data Analysis (EDA). The dataset includes key attributes such as brand, model, price, year of manufacture, resale price, and geographical details. Through this analysis, we aim to uncover patterns, trends, and insights that influence bike sales and ownership in India.
 
-Key Insights Explored:
-Average Daily Distance Traveled by Different Brands
-
 This insight helps in understanding the preferred bike brands for daily commuting.
 By analyzing mileage logs and user-reported data, we can identify which brands offer higher durability and fuel efficiency for long-distance travel.
 Price Distribution Across Different Brands (INR)
