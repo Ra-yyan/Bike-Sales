@@ -20,3 +20,4 @@ Year of Manufacture Distribution by City Tier
 Indian cities can be classified into different tiers (Tier 1, Tier 2, Tier 3) based on their population and development.
 This insight helps in identifying whether newer or older bikes are more commonly sold in different city tiers.
 It also indicates how economic conditions and consumer preferences vary between metropolitan cities and smaller towns.
+![Screenshot 2025-03-11 003728](https://github.com/user-attachments/assets/77649131-bd16-4218-8287-7a3f3667e84e)
